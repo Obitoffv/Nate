@@ -33,17 +33,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TechQuardSupport"
+            "value": "Miku_Support"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "TechQuard"
+            "value": "Miku_updates"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5513481385"
+            "value": "5001899507"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
