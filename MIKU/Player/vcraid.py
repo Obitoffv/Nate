@@ -7,7 +7,7 @@ import sys
 
 from asyncio import sleep
 from random import choice
-from pyrogram import Client, filters
+from pyrogram import Client as MIKU, filters
 from pyrogram.types import Message
 from pytgcalls import StreamType
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
