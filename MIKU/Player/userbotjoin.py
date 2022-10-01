@@ -4,7 +4,7 @@ from MIKU.decorators import authorized_users_only, sudo_users_only, errors
 from MIKU.filters import command, other_filters
 from MIKU.main import user as USER
 from pyrogram import filters
-from MIKU.main import bot as Client
+from MIKU.main import bot as MIKU
 from pyrogram.errors import UserAlreadyParticipant
 
 
