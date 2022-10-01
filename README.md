@@ -2,7 +2,7 @@
 
 ### Mɪᴋᴜ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Miku_updates"><img src="https://telegra.ph/file/de91427fe131a0578cfb4.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Miku_updates"><img src="https://telegra.ph/file/680e688035161c7e7afb1.jpg" width="300"></a></p>
 <p align="center">
     :)
 
