@@ -32,6 +32,7 @@ from youtubesearchpython import VideosSearch
 IMAGE_THUMBNAIL = "https://telegra.ph/file/797bf6dec302a2bc51f02.jpg"
 HNDLR = '/'
 
+NIXA=MIKU
 def ytsearch(query: str):
     try:
         search = VideosSearch(query, limit=1).result()
