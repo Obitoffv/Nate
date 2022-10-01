@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/Miku_updates"><img src="https://telegra.ph/file/680e688035161c7e7afb1.jpg" width="300"></a></p>
 <p align="center">
-    :)
+    
 
 [ᴏᴡɴᴇʀ](https://t.me/Mr_nack_nack)
 
