@@ -6,7 +6,7 @@
 <p align="center">
     🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[ʜᴀɴᴀ sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/hana_Session_bot)
+[ᴏᴡɴᴇʀ](https://t.me/Mr_nack_nack)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 
