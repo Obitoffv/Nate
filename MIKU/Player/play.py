@@ -18,7 +18,7 @@ from MIKU.filters import command, other_filters
 from MIKU.queues import QUEUE, add_to_queue
 from MIKU.main import call_py, Test as user
 from MIKU.utils import bash
-from MIKU.main import bot as Client
+from MIKU.main import bot as MIKU
 from pyrogram.errors import UserAlreadyParticipant, UserNotParticipant
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from pytgcalls import StreamType
@@ -38,6 +38,8 @@ MIKU_IMGS = [
     "Process/ImageFont/Purple.png",
     "Process/ImageFont/MIKU.png",
 ]
+
+Client=MIKU
 
 def ytsearch(query: str):
     try:
