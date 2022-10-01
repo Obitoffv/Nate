@@ -1,9 +1,9 @@
 {
     "name": "ᴍɪᴋᴜ ᴍᴜsɪᴄ ʙᴏᴛ",
-    "logo": "https://telegra.ph/file/74373554f5913ca595317.jpg",
+    "logo": "https://telegra.ph/file/5103ab44655c3b2fc8846.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
     "keywords": ["Miku", "MIKU-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/Sumit9969/NIXA-MUSIC-BOT",
+    "repository": "https://github.com/Yunxvoid/MIKU",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
