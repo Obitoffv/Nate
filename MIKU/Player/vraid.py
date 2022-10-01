@@ -278,7 +278,7 @@ async def vraid(c: MIKU, m: Message):
                             await m.reply_text(f"sᴛᴀʀᴛᴇᴅ ʀᴀɪᴅ ᴏɴ {chat_id}")
 
 
-@NIXA.on_message(filters.user(SUDO_USERS) & filters.command(["vraidlive", "vraidstream"], prefixes=HNDLR))
+@MIKU.on_message(filters.user(SUDO_USERS) & filters.command(["vraidlive", "vraidstream"], prefixes=HNDLR))
 async def raidlive(c: NIXA, m: Message):
     await m.delete()
     chat_id = m.chat.id
